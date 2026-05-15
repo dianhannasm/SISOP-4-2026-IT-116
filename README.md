@@ -373,5 +373,5 @@ cat mnt/tujuan.txt
 ```  
 Output:  
 ```bash  
-Tujuan Mas Amba: -7.957382728443728, 112.4698688227961, 23:59 WIB
+Tujuan Mas Amba:  -7.957 382728 443728,  112.469 8688227961,  23: 59 WIB
 ```
