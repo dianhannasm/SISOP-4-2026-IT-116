@@ -344,9 +344,6 @@ Fungsi main() digunakan untuk:
 - menjalankan filesystem menggunakan `fuse_main()`
 
 Program dijalankan menggunakan:  
-```bash  
-./kenz_rescue -f amba_files mnt
-```  
 Compile Program  
 ```bash
 gcc kenz_rescue.c `pkg-config fuse3 --cflags --libs` -o kenz_rescue
